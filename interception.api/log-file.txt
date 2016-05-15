@@ -1,0 +1,40 @@
+2016-05-08 19:57:50,066 [28] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:57:50,085 [28] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:04,226 [11] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:04,226 [11] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:04,451 [17] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:04,451 [17] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:04,643 [11] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:04,644 [11] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:04,835 [17] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:04,835 [17] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:05,028 [22] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:05,028 [22] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:08,384 [11] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:08,385 [11] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 19:58:08,924 [22] DEBUG interception.api.Controllers.HomeController [(null)] - Incoming call in GetHello method
+2016-05-08 19:58:08,925 [22] DEBUG interception.api.Controllers.HomeController [(null)] - Returning from GetHello method
+2016-05-08 20:29:03,442 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:03,461 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:06,227 [51] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:06,228 [51] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:06,445 [53] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:06,446 [53] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:06,604 [54] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:06,604 [54] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:06,789 [51] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:06,789 [51] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:06,990 [53] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:06,991 [53] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:07,173 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:07,174 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:29:07,335 [54] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:29:07,336 [54] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:34:44,556 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:34:44,571 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:35:13,795 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:35:13,796 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:35:13,999 [53] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:35:13,999 [53] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
+2016-05-08 20:35:14,175 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - Incoming call in System.String GetHelloMessage() method
+2016-05-08 20:35:14,175 [40] DEBUG interception.api.Bahaviors.LoggingBehavior [(null)] - System.String GetHelloMessage() method executed
